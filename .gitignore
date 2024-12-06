@@ -1,0 +1,14 @@
+# Media files...
+*.mp4
+*.pptx
+*.rar
+
+
+# Tests files directory related to the project
+Tests/*
+
+# Generated files
+PrototipoProyecto3_ConSensorUltrasonico/db/*
+PrototipoProyecto3_ConSensorUltrasonico/incremental_db/*
+PrototipoProyecto3_ConSensorUltrasonico/output_files/*
+*.vhd.bak
